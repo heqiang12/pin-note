@@ -1,0 +1,9 @@
+# 构建产物
+bin/
+obj/
+publish/
+*.user
+.vs/
+
+# 本地临时
+.tmp/
