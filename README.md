@@ -4,6 +4,12 @@
 
 为「只想随手记点东西」而做：没有账号、没有云同步、没有分类树，只有一列便签和几个必要的开关。
 
+<p align="center">
+  <img src="docs/dark.png" width="300" alt="深色主题" />
+  <img src="docs/light.png" width="300" alt="浅色主题" />
+</p>
+
+
 ## 功能
 
 - **随手记**：顶部输入框，回车即存，不需要点什么保存
